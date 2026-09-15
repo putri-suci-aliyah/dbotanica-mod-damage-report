@@ -211,7 +211,7 @@ php artisan key:generate
 Buat database MySQL, kemudian sesuaikan konfigurasi pada file `.env`.
 
 ```env
-DB_DATABASE=dbotanica_mod_damage_report
+DB_DATABASE=[nama_database]
 DB_USERNAME=root
 DB_PASSWORD=
 ```
